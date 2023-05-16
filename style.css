@@ -1,0 +1,7 @@
+body {
+    background-color: lightblue;
+}
+
+.crossed {
+    text-decoration: line-through;
+}
